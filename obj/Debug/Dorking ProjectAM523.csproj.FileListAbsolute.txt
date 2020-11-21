@@ -1,0 +1,14 @@
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking_ProjectAM523.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking_ProjectAM523.Form2.resources
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking_ProjectAM523.Form3.resources
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking_ProjectAM523.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\bin\Debug\Dorking ProjectAM523.exe.config
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\bin\Debug\Dorking ProjectAM523.exe
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\bin\Debug\Dorking ProjectAM523.pdb
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.exe
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.pdb
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Dorking ProjectAM523\obj\Debug\Dorking ProjectAM523.csproj.CopyComplete
